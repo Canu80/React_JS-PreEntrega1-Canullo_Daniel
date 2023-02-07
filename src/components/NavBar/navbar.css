@@ -1,0 +1,31 @@
+.navbar {
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.productos {
+    display: flex;
+    flex-direction: row;
+    padding: 1%;
+}
+
+.productos ul{
+    display: flex;
+    list-style: none;
+}
+
+.productos li {
+    margin: 20px 0;
+    margin-left: 40px;
+    font-size: 1.1em;
+    font-weight: 700;
+    
+}
+
+.productos a{
+    text-decoration: none;
+    color: rgb(3, 67, 41);
+}
