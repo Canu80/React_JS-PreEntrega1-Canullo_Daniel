@@ -1,7 +1,7 @@
 import "../Logo/logo.css";
 const Logo = () => {
   return (
-    <div class="Logo">
+    <div className="Logo">
         <img alt="carrito" src="./img/logo.png" width="150px" />
     </div>
   )

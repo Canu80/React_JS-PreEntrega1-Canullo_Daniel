@@ -1,7 +1,7 @@
 import "./style.css";
 const ItemListContainer = ({ greeting }) => {
   return (
-    <div class="ContenedorSaludo">
+    <div className="ContenedorSaludo">
       <div className="Saludo">
         {greeting}
       </div>

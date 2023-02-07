@@ -1,7 +1,7 @@
 import "../CartWidgets/CartWidgets.css"
 const CartWidgets = () => {
   return (
-    <div class="Carrito">
+    <div className="Carrito">
       <img alt="carrito" src="./img/carrito.png" width="25px" />3
     </div>
   );
